@@ -6,11 +6,12 @@ var firebaseConfig = {
     projectId: "sistemas-distribuidos-ee167",
     storageBucket: "sistemas-distribuidos-ee167.appspot.com",
     messagingSenderId: "861125968338",
-    appId: "1:861125968338:web:4f9d98d906534572b2080b"
+    appId: "1:861125968338:web:4f9d98d906534572b2080b",
+    measurementId: "G-Z60Q0ZWZ1C"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
-
+firebase.analytics();
 // Get a reference to the database service
 const nameRef = firebase.database().ref().child("sensor");
 
