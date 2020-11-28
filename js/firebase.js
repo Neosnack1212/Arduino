@@ -2,12 +2,12 @@
 var firebaseConfig = {
     apiKey: "AIzaSyA_tcYLlUKonYLtjbEKeyKfvIRMBQntrHs",
     authDomain: "sistemas-distribuidos-ee167.firebaseapp.com",
-    databaseURL: "https://sistemas-distribuidos-ee167.firebaseio.com/",
+    databaseURL: "https://sistemas-distribuidos-ee167.firebaseio.com",
     projectId: "sistemas-distribuidos-ee167",
     storageBucket: "sistemas-distribuidos-ee167.appspot.com",
     messagingSenderId: "861125968338",
-    appId: "1:861125968338:web:4f9d98d906534572b2080b",
-    measurementId: "G-Z60Q0ZWZ1C"
+    appId: "1:861125968338:web:c2c2a4abb2d56948b2080b",
+    measurementId: "G-18E0EWNPSV"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
