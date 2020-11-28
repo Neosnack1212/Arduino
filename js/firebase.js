@@ -1,3 +1,5 @@
+<script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-analytics.js"></script>
 // Your web app's Firebase configuration
 var firebaseConfig = {
     apiKey: "AIzaSyA_tcYLlUKonYLtjbEKeyKfvIRMBQntrHs",
