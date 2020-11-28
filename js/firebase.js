@@ -2,7 +2,7 @@
 var firebaseConfig = {
     apiKey: "AIzaSyA_tcYLlUKonYLtjbEKeyKfvIRMBQntrHs",
     authDomain: "sistemas-distribuidos-ee167.firebaseapp.com",
-    databaseURL: "https://sistemas-distribuidos-ee167.firebaseio.com",
+    databaseURL: "https://sistemas-distribuidos-ee167.firebaseio.com/",
     projectId: "sistemas-distribuidos-ee167",
     storageBucket: "sistemas-distribuidos-ee167.appspot.com",
     messagingSenderId: "861125968338",
