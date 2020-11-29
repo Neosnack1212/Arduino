@@ -34,7 +34,7 @@ nameRef.on('value', function (snapshot) {
         console.log(data);
     }
 
-    data.push({ date: data[data.length - 1].date, value: data[data.length - 1].value, disabled: false })
+    //data.push({ date: data[data.length - 1].date, value: data[data.length - 1].value, disabled: false })
 
 
     reloadAire();
